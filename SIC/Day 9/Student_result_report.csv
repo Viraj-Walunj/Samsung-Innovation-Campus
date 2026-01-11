@@ -1,0 +1,6 @@
+Name,Department,Marks,Result
+Viraj,CS,90.0,Pass
+Utkarsh,CS,89.0,Pass
+Rahul,IT,69.0,Fail
+Siddhu,IT,67.0,Fail
+Aditya,IT,,Fail
